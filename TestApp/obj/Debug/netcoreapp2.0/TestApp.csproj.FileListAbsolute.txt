@@ -1,0 +1,14 @@
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.AssemblyInfo.cs
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\TestApp.deps.json
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.json
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\TestApp.runtimeconfig.dev.json
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\AzureWorkshop.dll
+C:\Users\Dana\azure\AzureWorkshop\TestApp\bin\Debug\netcoreapp2.0\AzureWorkshop.pdb
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.csproj.CopyComplete
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.dll
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.pdb
+C:\Users\Dana\azure\AzureWorkshop\TestApp\obj\Debug\netcoreapp2.0\TestApp.csprojResolveAssemblyReference.cache
